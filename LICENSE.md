@@ -6,7 +6,7 @@ Written by Mugdha Pawar Dec, 2016
 
 This project is a part of University of Texas, Arlington curriculum
 and cannot be
-copied or distributed withoyt the express permission of Mugdha Pawar
+copied or distributed without the express permission of Mugdha Pawar
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
