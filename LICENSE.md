@@ -1,7 +1,7 @@
 Copyright (c) 2020 MugdhaPawar
 
 MugdhaPawar/Low_Frequency_Signal_generator - All Right Reserved
-Unauthorized copying of this file, cia any medium is strictly prohibited
+Unauthorized copying of this file, via any medium is strictly prohibited
 Written by Mugdha Pawar Dec, 2016
 
 This project is a part of University of Texas, Arlington curriculum
